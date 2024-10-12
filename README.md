@@ -1,2 +1,2 @@
 # MyCurrency
-An application for calculation currency exchange rates
+An application for calculating currency exchange rates
